@@ -1,0 +1,14 @@
+{
+    "id": "1",
+    "firstName": "Joko",
+    "lastName": "Onwor",
+    "age": 20,
+    "occupation": "Karyawan",
+    "nationality": "Indonesia",
+    "hobbies": [
+      "main game"
+    ],
+    "gender": "MALE",
+    "createdDate": "2021-09-10T04:31:14.341Z",
+    "updatedDate": "2021-09-12T04:31:14.341Z"
+  }
